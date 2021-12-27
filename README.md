@@ -1,7 +1,7 @@
 - 👋 Hi, I’m NoA
 - 👀 I’m interested in Network Engineering.
 - 🌱 I’m currently learning Ansible & Python.
-- 💞️ I’m looking to collaborate on Pyats stuff.
+- 💞️ I’m looking to collaborate on any stuff!
 - 📫 How to reach me: fly to the moon!
 
 <!---
